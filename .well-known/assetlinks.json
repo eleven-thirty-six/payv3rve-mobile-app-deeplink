@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.payverse.app",
+            "sha256_cert_fingerprints": [
+                "CE:F3:84:52:B1:52:E3:75:07:40:E2:82:20:A9:92:BC:58:8D:62:86:78:06:49:C7:65:00:98:1C:17:61:8A:EB"
+            ]
+        }
+    }
+]
