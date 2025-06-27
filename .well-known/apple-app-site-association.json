@@ -1,0 +1,15 @@
+
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "3SJ8PWX8K7.com.payv3rse.co",
+                "paths": [
+                    "/sign-up/*",
+                    "/some/other/path/*"
+                ]
+            }
+        ]
+    }
+}
