@@ -6,7 +6,7 @@
             {
                 "appID": "3SJ8PWX8K7.com.payv3rse.co",
                 "paths": [
-                    "/sign-up/*",
+                    "/referral/*",
                     "/some/other/path/*"
                 ]
             }
